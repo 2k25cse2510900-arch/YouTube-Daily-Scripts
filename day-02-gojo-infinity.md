@@ -1,4 +1,4 @@
-# Final Approved Production Script: Satoru Gojo — The Physics of Infinity
+# Day 02: Gojo Infinity — The Physics of Infinity
 
 **Project:** A Lesson With AI  
 **Production ID:** `reference_guided_gojo_test_01`  
