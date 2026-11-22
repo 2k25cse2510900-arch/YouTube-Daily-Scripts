@@ -1,4 +1,4 @@
-# Colossal Titan — Square-Cube Law Production Script
+# Day 01: Colossal Titan — The Square-Cube Law
 
 **Project:** A Lesson With AI  
 **Title:** Kyu Nahi Ban Sakte Real Life Titans?  
