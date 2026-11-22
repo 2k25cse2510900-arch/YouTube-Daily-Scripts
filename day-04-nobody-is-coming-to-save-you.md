@@ -1,4 +1,4 @@
-# Production Script: Nobody Is Coming to Save You (Day 4)
+# Day 04: Nobody Is Coming to Save You
 
 **Project:** A Lesson With AI  
 **Production ID:** `day_04_nobody_is_coming_to_save_you`  
