@@ -1,4 +1,4 @@
-# Day 5 Original Story Script: The Work Nobody Sees
+# Day 05: The Work Nobody Sees
 
 **Project:** A Lesson With AI  
 **Production ID:** `day_05_the_work_nobody_sees`  
