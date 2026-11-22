@@ -1,4 +1,4 @@
-# Production Script: What If You Became Kiyotaka Ayanokoji?
+# Day 03: Ayanokoji — What If You Were Ayanokoji?
 
 **Project:** A Lesson With AI  
 **Production ID:** `ayanokoji_short_01`  
